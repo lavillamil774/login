@@ -1,1 +1,2 @@
-ECHO est  activado.
+ECHO estï¿½ activado.
+ok prueba
